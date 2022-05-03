@@ -22,4 +22,8 @@ end_of_line = lf
 trim_trailing_whitespace = true
 
 # указывает, что файл должен заканчиваться пустой строкой
+<<<<<<< HEAD
 insert_final_newline = true
+=======
+insert_final_newline = true
+>>>>>>> adb891f06bebd7f876caa30d51f332bf01a34cf5
